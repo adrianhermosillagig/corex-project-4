@@ -6,3 +6,5 @@ This project was used to explore Docker's capabilities with a .NET application. 
   - Creating a custom Dockerfile for greater control over the image build process.
 
 - Running the container: Utilizing both a single command (docker run) and a multi-container orchestration tool (docker compose).
+
+Dockerfiles are in dotnet-docker -> Products/Store. Docker compose is in dotnet-docker folder.
